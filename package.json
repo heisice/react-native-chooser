@@ -23,9 +23,11 @@
     "url": "https://github.com/gs-akhan/react-native-chooser/issues"
   },
   "homepage": "https://github.com/gs-akhan/react-native-chooser#readme",
-  "peerDependencies": {
-    "prop-types": "^15.5.10",
+  "dependencies": {
     "react-native-scroll-indicator": "^0.1.0"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.5.10"    
   },
   "devDependencies": {
     "react": "16.0.0-alpha.12",
